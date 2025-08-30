@@ -1,3 +1,3 @@
 # ceshi
 
-bash <(curl -fsSL https://raw.githubusercontent.com/vpn3288/saifeng/refs/heads/main/saifeng.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/vpn3288/ceshi/refs/heads/main/ceshi.sh)
